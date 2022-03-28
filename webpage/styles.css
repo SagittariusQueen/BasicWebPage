@@ -8,9 +8,7 @@ h1 {
     text-align: center;
     font-size: 150%;
     font-family: 'Courier New', Courier, monospace;
-    border-color:blueviolet;
-    border-width: medium;
-    
+    border:6px solid blueviolet;
 }
 h2{
     color:aqua;
