@@ -2,6 +2,7 @@ h1 {
     background-color:royalblue;
     font-size: 150%;
     text-align: center;
+    text-transform: uppercase;
 }
 #head{
     background-color:lightgreen;
@@ -9,15 +10,20 @@ h1 {
     font-size: 150%;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    border:6px solid maroon;
+    border: 6px solid maroon;
 }
 h2{
     color:aqua;
-    background-color:dimgrey;
+    background-color:gray;
 }
 body{
-    
-}
-#tidbit{
+    background:dimgrey;
 
+}
+section{
+    width: 30%;
+    background: teal;
+    height: 300px;
+    float:left;
+    margin-right: 2%;
 }
