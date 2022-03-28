@@ -7,8 +7,9 @@ h1 {
     background-color:lightgreen;
     text-align: center;
     font-size: 150%;
+    font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    border:6px solid blueviolet;
+    border:6px solid maroon;
 }
 h2{
     color:aqua;
