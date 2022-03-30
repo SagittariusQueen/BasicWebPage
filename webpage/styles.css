@@ -15,10 +15,10 @@ h1 {
 h2{
     color:aqua;
     background-color:gray;
+    text-align: center;
 }
 body{
     background:dimgrey;
-
 }
 section{
     width: 30%;
@@ -26,4 +26,17 @@ section{
     height: 300px;
     float:left;
     margin-right: 2%;
+}
+details{
+    width: 30%;
+    background: teal;
+    height: 300px;
+    float:left;
+    margin-right: 2%;
+    overflow: scroll;
+}
+summary{
+    color:aqua;
+    background-color:gray;
+    text-align: center;
 }
